@@ -1,0 +1,6 @@
+[submodule "portfol"]
+	path = portfol
+	url = https://github.com/sajaadem/portfolia.git
+[submodule "game"]
+	path = game
+	url = https://github.com/sajaadem/JavaGame.git
